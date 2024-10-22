@@ -50,7 +50,7 @@ print("\nPredictions:\n",Y_pred[:5])
 ```
 
 ## Output:
-![Screenshot (364)](https://github.com/user-attachments/assets/7c17b320-0b41-4970-afba-9a6e36723ad4)
+![image](https://github.com/user-attachments/assets/8387c06d-c3f6-4f0b-b29c-bf92626ed70c)
 
 
 
